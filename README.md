@@ -23,7 +23,7 @@ I aspire to work in environments where **innovation, security-first thinking, an
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaMohanShenoy&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMohanShenoy&layout=compact&theme=tokyonight)
-![LeetCode Stats](https://leetcard.jacoblin.cool/adityamohanshenoy?theme=nord)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Viking2127?theme=nord)
 
 ---
 
